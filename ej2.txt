@@ -1,0 +1,11 @@
+PRGRAMA suma
+VARIABLES	
+	 ENTERO a, b
+INICIO 
+	 ESCRIBIR "Dame un número entero"
+         LEER a
+	 ESCRIBIR "Dame otro número entero"
+	 LEER b
+	 resultado = a + b 
+	 ESCRIBIR "La suma vale" + (a+b) 
+FIN	
